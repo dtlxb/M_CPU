@@ -1,0 +1,99 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/ICDesignProj
+T_opt
+!s110 1585620166
+VI?L;YQJaDWD<YV=Vh;=aX2
+04 3 4 work VTF fast 0
+=1-000ec6d029fa-5e82a4c6-25-5678
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vM_CPU
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 17I6b?IU@73QgASdZMz[L2
+I:SSoahM69JlNAZU8fhfce1
+Z2 dD:/ICDesignProj/M_CPU
+w1580995298
+8D:/ICDesignProj/M_CPU/M_CPU.v
+FD:/ICDesignProj/M_CPU/M_CPU.v
+L0 4
+Z3 OL;L;10.4;61
+!s108 1585620146.894000
+!s107 headfile.v|D:/ICDesignProj/M_CPU/M_CPU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ICDesignProj/M_CPU/M_CPU.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@m_@c@p@u
+vMemory
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 3M7zWY4Ck62811f[Mb0Ki0
+IICPCGmNldheYP=YKFUz[_0
+R2
+w1581220866
+8D:/ICDesignProj/M_CPU/Memory.v
+FD:/ICDesignProj/M_CPU/Memory.v
+L0 4
+R3
+!s108 1585620147.013000
+!s107 headfile.v|D:/ICDesignProj/M_CPU/Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ICDesignProj/M_CPU/Memory.v|
+!i113 0
+R4
+n@memory
+vPipeline
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 XWD;_f;aS40K2T3Z6ANS@3
+I6:7h]2RdVgK9V5iOSGf<n2
+R2
+w1585568061
+8D:/ICDesignProj/M_CPU/Pipeline.v
+FD:/ICDesignProj/M_CPU/Pipeline.v
+L0 4
+R3
+!s108 1585620147.185000
+!s107 headfile.v|D:/ICDesignProj/M_CPU/Pipeline.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ICDesignProj/M_CPU/Pipeline.v|
+!i113 0
+R4
+n@pipeline
+vVTF
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 82GNcmJ4@HHglzenMN3DA1
+IO6PcfH;9GTlRYHTSBSJ3g2
+R2
+w1581153240
+8D:/ICDesignProj/M_CPU/VTF.v
+FD:/ICDesignProj/M_CPU/VTF.v
+L0 4
+R3
+!s108 1585620147.360000
+!s107 headfile.v|D:/ICDesignProj/M_CPU/VTF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ICDesignProj/M_CPU/VTF.v|
+!i113 0
+R4
+n@v@t@f

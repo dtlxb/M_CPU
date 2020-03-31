@@ -5,7 +5,7 @@
 `define idle        1'b0
 `define exec        1'b1
 
-//
+//Data transfer & Arithmetic
 `define  NOP        5'b00000
 `define  HALT       5'b00001
 

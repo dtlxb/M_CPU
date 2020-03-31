@@ -40,7 +40,7 @@ module Memory(
 	end
 
 	// memory read
-	assign dr = d_mem[d_addr];	// CPU have to wait when instant read not available.
+	assign dr = d_mem[d_addr];	// CPU have to wait when instant read not available
 
 	//memory write
 	always @(posedge mem_clk)

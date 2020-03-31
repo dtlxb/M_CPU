@@ -141,7 +141,7 @@ module Pipeline(
 		if (id_bubble == 0)
 		begin
 			// forwarding from E&M&W here
-			// add a bubble when a LOAD instruction in E
+			// add a bubble when LOAD in E
 			if (id_ir[15:11] == `ADD)
 			begin
 				regA = id_ir[6:4];
